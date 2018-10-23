@@ -1,0 +1,28 @@
+import Foundation
+import UIKit
+
+public var people: [NSDictionary] = [["image": UIImage(named: "Image1.png")!, "position": CGPoint(x: 104.1675, y: 65.2525)],
+                              ["image": UIImage(named: "Image2.png")!, "position": CGPoint(x: 43.645, y: 182.793)],
+                              ["image": UIImage(named: "Image3.png")!, "position": CGPoint(x: 203.82, y: 44.505)],
+                              ["image": UIImage(named: "Image4.png")!, "position": CGPoint(x: 387.9675, y: 27.4125)],
+                              ["image": UIImage(named: "Image5.png")!, "position": CGPoint(x: 49.9875, y: 252.41)],
+                              ["image": UIImage(named: "Image6.png")!, "position": CGPoint(x: 193.3925, y: 103.3075)],
+                              ["image": UIImage(named: "Image7.png")!, "position": CGPoint(x: 353.89, y: 252.41)],
+                              ["image": UIImage(named: "Image8.png")!, "position": CGPoint(x: 311.32, y: 29.3475)],
+                              ["image": UIImage(named: "Image9.png")!, "position": CGPoint(x: 390.87, y: 170.1725)],
+                              ["image": UIImage(named: "Image10.png")!, "position": CGPoint(x: 109.435, y: 123.3025)],
+                              ["image": UIImage(named: "Image11.png")!, "position": CGPoint(x: 355.2875, y: 203.2825)],
+                              ["image": UIImage(named: "Image12.png")!, "position": CGPoint(x: 404.845, y: 242.735)],
+                              ["image": UIImage(named: "Image13.png")!, "position": CGPoint(x: 352.2775, y: 124.8075)],
+                              ["image": UIImage(named: "Image14.png")!, "position": CGPoint(x: 159.315, y: 25.37)],
+                              ["image": UIImage(named: "Image15.png")!, "position": CGPoint(x: 325.295, y: 87.72)],
+                              ["image": UIImage(named: "Image16.png")!, "position": CGPoint(x: 42.355, y: 74.39)],
+                              ["image": UIImage(named: "Image17.png")!, "position": CGPoint(x: 61.275, y: 140.395)],
+                              ["image": UIImage(named: "Image18.png")!, "position": CGPoint(x: 40.0975, y: 29.1325)],
+                              ["image": UIImage(named: "Image19.png")!, "position": CGPoint(x: 395.0625, y: 74.39)],
+                              ["image": UIImage(named: "Image20.png")!, "position": CGPoint(x: 146.845, y: 86.86)],
+                              ["image": UIImage(named: "Image21.png")!, "position": CGPoint(x: 254.6675, y: 25.4775)],
+                              ["image": UIImage(named: "Image22.png")!, "position": CGPoint(x: 103.845, y: 23.1125)],
+                              ["image": UIImage(named: "Image23.png")!, "position": CGPoint(x: 401.5125, y: 121.475)],
+                              ["image": UIImage(named: "Image24.png")!, "position": CGPoint(x: 15.8025, y: 219.3)],
+                              ["image": UIImage(named: "Image25.png")!, "position": CGPoint(x: 24.4025, y: 116.96)]]
